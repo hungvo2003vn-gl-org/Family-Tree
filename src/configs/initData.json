@@ -1,0 +1,65 @@
+[
+  {
+    "id": "92",
+    "name": "Father",
+    "yearOfBirth": 1970,
+    "spouses": [{ "id": "27", "type": "married" }],
+    "parents": [],
+    "children": [
+      { "id": "6", "type": "blood" },
+      { "id": "29", "type": "blood" },
+      { "id": "30", "type": "blood" }
+    ],
+    "siblings": []
+  },
+  {
+    "id": "27",
+    "name": "Mother",
+    "yearOfBirth": 1972,
+    "spouses": [{ "id": "92", "type": "married" }],
+    "parents": [],
+    "children": [
+      { "id": "6", "type": "blood" },
+      { "id": "29", "type": "blood" },
+      { "id": "30", "type": "blood" }
+    ],
+    "siblings": []
+  },
+  {
+    "id": "6",
+    "name": "Child 1",
+    "yearOfBirth": 1995,
+    "spouses": [{ "id": "7", "type": "married" }],
+    "parents": [{ "id": "92", "type": "blood" }, { "id": "27", "type": "blood" }],
+    "children": [],
+    "siblings": []
+  },
+  {
+    "id": "7",
+    "name": "Child 1-wife",
+    "yearOfBirth": 1995,
+    "spouses": [{ "id": "6", "type": "married" }],
+    "parents": [],
+    "children": [],
+    "siblings": []
+  },
+  {
+    "id": "29",
+    "name": "Child 2",
+    "yearOfBirth": 2000,
+    "spouses": [],
+    "parents": [{ "id": "92", "type": "blood" }, { "id": "27", "type": "blood" }],
+    "children": [],
+    "siblings": []
+  },
+  {
+    "id": "30",
+    "name": "Child 3",
+    "yearOfBirth": 2001,
+    "spouses": [],
+    "parents": [{ "id": "92", "type": "blood" }, { "id": "27", "type": "blood" }],
+    "children": [],
+    "siblings": []
+  }
+]
+
