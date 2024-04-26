@@ -50,5 +50,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Deployed website
 ```
-https://family-tree-24nl.onrender.com/
+https://hungvo2003vn-gl-org.github.io/Family-Tree/
 ```
